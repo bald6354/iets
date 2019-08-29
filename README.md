@@ -45,6 +45,9 @@ https://https://www.prophesee.ai/dataset-n-cars/
      
 ### Preparations:
 1. Download N-CARS dataset to NCARS folder
+2. Open Matlab and type 'googlenet' at the command window to ensure pretrained GoogLenet is installed. Follow additional directions if needed.
+2. Change the Matlab directory to the code folder and execute the Matlab script 'makeImages'. This script runs IETS and generates a single RGB image for each 100ms sample of data. The results are stored in the 'processed' folder.
+3. 
 
 ### Running examples:
 
