@@ -32,6 +32,8 @@ BibTex:
 
 Details on the algorithm...
 
+ICIAR 2019 Presentation available in 
+
 ## Dataset: N-CARS 
 The dataset used for development and evaluation was N-CARS. It can be found via the following link: 
 https://https://www.prophesee.ai/dataset-n-cars/
@@ -42,6 +44,7 @@ https://https://www.prophesee.ai/dataset-n-cars/
      Pretrained GoogLenet
      
 ### Preparations:
+1. Download N-CARS dataset to NCARS folder
 
 ### Running examples:
 
