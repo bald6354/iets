@@ -3,7 +3,7 @@
 ![Missing Image](https://github.com/bald6354/iets/blob/master/images/rotDisk_IETS.png "IETS Denoised Dataset")
 
 ## Summary
-This is the implemtation code for the following paper. Please cite following paper. Code will be released soon!
+This is the implemtation code for the following paper.
   
 Cite as:
 
