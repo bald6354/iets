@@ -1,7 +1,5 @@
 # Inceptive Event Time-Surfaces for Object Classification using Neuromorphic Cameras (IETS)
 
-*Still working to update with code and instructions...*
-
 ![Missing Image](https://github.com/bald6354/iets/blob/master/images/rotDisk_IETS.png "IETS Denoised Dataset")
 
 ## Summary
