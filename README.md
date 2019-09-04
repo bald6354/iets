@@ -2,7 +2,7 @@
 
 *Still working to update with code and instructions...*
 
-![Missing Image](https://github.com/bald6354/iets/edit/master/images/rotDisk_IETS.png "IETS Denoised Dataset")
+![Missing Image](https://github.com/bald6354/iets/blob/master/images/rotDisk_IETS.png "IETS Denoised Dataset")
 
 ## Summary
 This is the implemtation code for the following paper. Please cite following paper. Code will be released soon!
