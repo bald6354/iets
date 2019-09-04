@@ -32,7 +32,10 @@ BibTex:
 
 ## Inceptive Event Time Surfaces 
 
-Details on the algorithm...
+*Springer Best Paper Award - ICIAR 2019* 
+[Link to Paper](https://rdcu.be/bQcGk)
+
+This  paper  presents  a  novel  fusion  of  low-level  approaches for dimensionality reduction into an effective approach for high-level objects in neuromorphic camera data called Inceptive Event Time-Surfaces(IETS). IETSs overcome several limitations of conventional time-surfaces by  increasing  robustness  to  noise,  promoting  spatial  consistency,  and improving the temporal localization of (moving) edges. Combining IETS with transfer learning improves state-of-the-art performance on the challenging problem of object classification utilizing event camera data.
 
 ICIAR 2019 presentation available in [Google Slides](https://docs.google.com/presentation/d/1xXY7GWQ0IKP8-hhdGIIOJRE7IwZfoV0jTsZWWTzpYwA/edit?usp=sharing).
 
