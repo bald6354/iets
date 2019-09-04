@@ -34,11 +34,10 @@ BibTex:
 
 Details on the algorithm...
 
-ICIAR 2019 Presentation available in 
+ICIAR 2019 presentation available in [Google Slides](https://docs.google.com/presentation/d/1xXY7GWQ0IKP8-hhdGIIOJRE7IwZfoV0jTsZWWTzpYwA/edit?usp=sharing).
 
 ## Dataset: N-CARS 
-The dataset used for development and evaluation was N-CARS. It can be found via the following link: 
-https://https://www.prophesee.ai/dataset-n-cars/
+The dataset used for development and evaluation was N-CARS. It can be found [here](https://www.prophesee.ai/dataset-n-cars/).
 
 ## Code Implementation
 ### Requirements:
@@ -48,8 +47,8 @@ https://https://www.prophesee.ai/dataset-n-cars/
 ### Preparations:
 1. Download N-CARS dataset to NCARS folder
 2. Open Matlab and type 'googlenet' at the command window to ensure pretrained GoogLenet is installed. Follow additional directions if needed.
-2. Change the Matlab directory to the code folder and execute the Matlab script 'makeImages'. This script runs IETS and generates a single RGB image for each 100ms sample of data. The results are stored in the 'processed' folder.
-3. 
+3. Change the Matlab directory to the code folder and execute the Matlab script 'makeImages'. This script runs IETS and generates a single RGB image for each 100ms sample of data. The results are stored in the 'time_surfaces' folder.
+4. 
 
 ### Running examples:
 
