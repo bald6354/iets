@@ -100,6 +100,11 @@ options = trainingOptions('adam', ...
 
 net = trainNetwork(atrainImageStore,lgraph,options);
 
+if false
+    %Load a network with transfer learning complete
+    load('iets_trained_net.mat')
+end
+
 [YPred,probs] = classify(net,atestImageStore);
 accuracy = mean(YPred == testImageStore.Labels)
 auc = scoreAUC(testImageStore.Labels=='cars',probs(:,2))
