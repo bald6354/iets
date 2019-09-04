@@ -2,6 +2,8 @@
 
 *Still working to update with code and instructions...*
 
+![Missing Image](https://github.com/bald6354/iets/edit/master/images/rotDisk_IETS.png "IETS Denoised Dataset")
+
 ## Summary
 This is the implemtation code for the following paper. Please cite following paper. Code will be released soon!
   
@@ -46,11 +48,11 @@ The dataset used for development and evaluation was N-CARS. It can be found [her
      
 ### Preparations:
 1. Download N-CARS dataset to NCARS folder
-2. Open Matlab and type 'googlenet' at the command window to ensure pretrained GoogLenet is installed. Follow additional directions if needed.
-3. Change the Matlab directory to the code folder and execute the Matlab script 'makeImages'. This script runs IETS and generates a single RGB image for each 100ms sample of data. The results are stored in the 'time_surfaces' folder.
-4. 
+2. Open Matlab and type 'googlenet' at the command window to ensure pretrained GoogLenet is installed. Follow additional directions if needed. If GoogLenet is not found at runtime, the script will load the included .mat file as a replacement.
 
 ### Running examples:
+1. Change the Matlab directory to the code folder and execute the Matlab script *makeImages.m*. This script runs IETS and generates a single RGB image for each 100ms sample of data. The results are stored in the 'time_surfaces' folder.
+2. Once all images are generated execute the the Matlab script *transferLearn.m*. This will load the pretrained network and preform transfer learning and evaluation.
 
 ## Contact 
 For any questions or bug reports, please contact R. Wes Baldwin baldwinr2@udayton.edu .
