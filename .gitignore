@@ -1,0 +1,5 @@
+NCARS/test/
+NCARS/train/
+time_surfaces/*/
+*.m~
+
