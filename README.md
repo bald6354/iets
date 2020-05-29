@@ -2,9 +2,12 @@
 
 ![Missing Image](https://github.com/bald6354/iets/blob/master/images/rotDisk_IETS.png "IETS Denoised Dataset")
 
+## Alternate Implementation
+If you just need a function to label inceptive and trailing events use [this code](https://github.com/bald6354/inceptiveEvents).
+
 ## Summary
 This is the implemtation code for the following paper.
-  
+
 Cite as:
 
 Baldwin R.W., Almatrafi M., Kaufman J.R., Asari V., Hirakawa K. (2019) Inceptive Event Time-Surfaces for Object Classification Using Neuromorphic Cameras. In: Karray F., Campilho A., Yu A. (eds) Image Analysis and Recognition. ICIAR 2019. Lecture Notes in Computer Science, vol 11663. Springer, Cham
